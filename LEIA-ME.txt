@@ -1,0 +1,14 @@
+PAINEL DE PÓS-GRADUAÇÃO — GitHub Pages
+
+Arquivos:
+- index.html: estrutura do painel
+- style.css: estilos responsivos e temas Azul & Ciano / Black & Gold
+- script.js: cursos, módulos, arquivos e backups
+
+Publique os três arquivos na raiz de um repositório GitHub e habilite Settings > Pages > Deploy from a branch > main > / (root).
+
+O tema Black & Gold vem selecionado por padrão. O botão Estética da Tela permite alterar a aparência.
+
+ATENÇÃO: dados são mantidos localmente no navegador, via localStorage e IndexedDB. Publicar no GitHub não sincroniza os registros entre dispositivos. Faça backups JSON regularmente e importe-os no novo navegador ou dispositivo.
+
+Não há arquivos pessoais anexados ao pacote; adicione-os por meio do painel.
